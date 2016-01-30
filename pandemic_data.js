@@ -454,16 +454,6 @@ data = [
     },
     {
         "color": "blue",
-        "name": "san francisco",
-        "edges": [
-            "chicago",
-            "los angeles",
-            "tokyo",
-            "manila"
-        ]
-    },
-    {
-        "color": "blue",
         "name": "madrid",
         "edges": [
             "sao paulo",
